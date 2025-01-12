@@ -45,6 +45,12 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\Menu\Menu.cs" />
+    <Compile Include="src\Menu\MenuHandler.cs" />
+    <Compile Include="src\Menu\MenuItem.cs" />
+    <Compile Include="src\Menu\MenuManager.cs" />
+    <Compile Include="src\Menu\MenuTemplates\TMainMenu.cs" />
+    <Compile Include="src\User\Input.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
